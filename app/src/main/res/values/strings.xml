@@ -2,4 +2,5 @@
     <string name="app_name">AttendanceCheckup</string>
     <string name="bt_checkup">Check up</string>
     <string name="bt_noteMyself">Note myself</string>
+    <string name="refresh_btn">Refresh</string>
 </resources>

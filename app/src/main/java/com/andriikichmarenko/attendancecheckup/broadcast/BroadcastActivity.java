@@ -1,4 +1,4 @@
-package com.andriikichmarenko.attendancecheckup;
+package com.andriikichmarenko.attendancecheckup.broadcast;
 
 import android.app.Activity;
 
