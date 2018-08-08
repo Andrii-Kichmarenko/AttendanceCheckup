@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">AttendanceCheckup</string>
     <string name="bt_checkup">Check up</string>
-    <string name="bt_noteMyself">Note myself</string>
+    <string name="bt_markMe">Mark me present</string>
     <string name="refresh_btn">Refresh</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="additional_info_student_index">Additional info (student index)</string>
+    <string name="switch_beacon_on">Switch beacon on</string>
+    <string name="switch_beacon_off">switch beacon off</string>
 </resources>
