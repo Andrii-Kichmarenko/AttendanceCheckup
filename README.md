@@ -4,7 +4,9 @@ This application provide ability to make list of members at a meeting.
 ## Introduction
 Application use [android beacon library](https://altbeacon.github.io/android-beacon-library/).
 
-**Note: Only device with Android 4.3+ and a Bluetooth Low Energy chipset can detect beacons with this library.**
+__Note: Only device with Android 4.3+ and a Bluetooth Low Energy chipset can detect beacons with this library.__
+
+__To transmit as a beacon, Android 5.0+ and firmware supporting Bluetooth Low Energy Peripheral Mode are required.__
 
 
 There are two workflow modes: 
